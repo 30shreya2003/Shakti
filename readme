@@ -1,0 +1,39 @@
+# Packages - 
+
+# import pandas as pd
+# import sqlite3
+# import networkx as nx
+# import matplotlib.pyplot as plt
+# from sklearn.cluster import DBSCAN
+
+# import pandas as pd
+# import torch
+# from transformers import DistilBertTokenizer, DistilBertForSequenceClassification
+# from torch.utils.data import DataLoader, Dataset
+# from fpdf import FPDF
+# import re
+# import nltk
+# from nltk.corpus import stopwords
+# from sklearn.model_selection import train_test_split
+# from torch.optim import Adam
+# from torch.cuda.amp import autocast, GradScaler
+
+# import pandas as pd
+# import numpy as np
+# from sklearn.cluster import DBSCAN
+# from sklearn.ensemble import RandomForestClassifier
+# from sklearn.neighbors import LocalOutlierFactor
+# from sklearn.preprocessing import StandardScaler
+# from imblearn.over_sampling import SMOTE
+# from tensorflow.keras.models import Sequential
+# from tensorflow.keras.layers import LSTM, Dense
+# from sklearn.metrics import precision_score, recall_score, f1_score, confusion_matrix, roc_auc_score
+# import matplotlib.pyplot as plt
+# import seaborn as sns
+# from geopy.distance import geodesic
+
+
+
+#Video Link - 
+
+#https://drive.google.com/drive/folders/1vevL7I0gJGR6L_t5jdcGiati4OGZqp25?usp=sharing
